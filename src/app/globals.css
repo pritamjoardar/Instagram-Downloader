@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Salsa&display=swap');
+
+*{
+  /* border:1px solid red; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  
+}
+#shadow{
+  /* border: 2px solid red; */
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.glass{
+  background: rgba(255,255,255,0.2);
+-webkit-backdrop-filter: blur(1px);
+backdrop-filter: blur(1px);
+border: 1px solid rgba(255,255,255,0.1);
+}
+.glass:hover{
+  background: rgba(255,255,255,0.1);
+  transition: .5s;
+}
+::-webkit-scrollbar{
+  width: .5rem;
+  /* height: 1rem; */
+}
+::-webkit-scrollbar-thumb{
+  /* background: antiquewhite; */
+  background-color: #ee2a7b;
+  border-radius: 100vw;
+}
