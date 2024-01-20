@@ -14,6 +14,10 @@ You can preview and try the website live in Vercel here : [reelsaver.online](htt
 
 Easy and User friendly UI (Interactions feedback and error messages).
 
+
+https://github.com/pritamjoardar/Instagram-Downloader/assets/111422356/7de113a8-5b4a-402e-97d4-299376d84303
+
+
 ![Desktop preview](https://github.com/pritamjoardar/Instagram-Downloader/blob/main/instadownloader.gif?raw=true)
 
 Responsive on mobile and other devices.
