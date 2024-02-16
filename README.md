@@ -24,7 +24,9 @@ Responsive on mobile and other devices.
 
 ![Mobile preview](https://github.com/pritamjoardar/Instagram-Downloader/blob/main/instaprephone.gif?raw=true)
 
+## Apk also avaliable
 
+<img width="1280" alt="Banner (1)" src="https://github.com/pritamjoardar/Instagram-Downloader/assets/111422356/610b4229-8493-4c76-a48c-a06f5f1049b8">
 
 ## Made with ❤️ by Pritam Joardar.
 
