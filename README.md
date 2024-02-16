@@ -10,6 +10,8 @@ _Note: Instagram stories aren't supported._
 
 You can preview and try the website live in Vercel here : [reelsaver.online](https://reelsaver.online/)
 
+Apk also avaliable :[Social Downloader](https://github.com/pritamjoardar/Social-Downloader)
+
 ## Website Preview
 
 Easy and User friendly UI (Interactions feedback and error messages).
