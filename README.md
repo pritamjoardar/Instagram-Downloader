@@ -8,7 +8,7 @@ A website that lets you download Instagram Reel videos easily and quickly. You c
 
 _Note: Instagram stories aren't supported._
 
-You can preview and try the website live in Vercel here : [reelsaver.online](https://reelsaver.online/)
+You can preview and try the website live in Vercel here : [reelsaver.fun](https://www.reelsaver.fun/)
 
 Apk also avaliable :[Social Downloader](https://github.com/pritamjoardar/Social-Downloader)
 
